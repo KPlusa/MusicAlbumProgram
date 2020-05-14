@@ -1,0 +1,11 @@
+0Rock
+1Metal
+2Disco polo
+3Jazz
+4Pop
+5Rap
+6Dance
+7Electric
+8House
+9Klasyczny
+10Blues

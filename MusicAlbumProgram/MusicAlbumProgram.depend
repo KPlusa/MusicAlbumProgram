@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1559859110 source:c:\users\kacpe\desktop\musicalbumprogram\musicalbumprogram\menu.c
+	"menu.h"
+
+1559860286 c:\users\kacpe\desktop\musicalbumprogram\musicalbumprogram\menu.h
+	"sorting.h"
+	"structures.h"
+
+1559839526 c:\users\kacpe\desktop\musicalbumprogram\musicalbumprogram\sorting.h
+	"structures.h"
+
+1559860142 c:\users\kacpe\desktop\musicalbumprogram\musicalbumprogram\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1559846676 source:c:\users\kacpe\desktop\musicalbumprogram\musicalbumprogram\sorting.c
+	"sorting.h"
+
+1559857464 source:c:\users\kacpe\desktop\musicalbumprogram\musicalbumprogram\structures.c
+	"structures.h"
+
+1559839430 source:c:\users\kacpe\desktop\musicalbumprogram\musicalbumprogram\appmain.c
+	"sorting.h"
+	"structures.h"
+	"menu.h"
+
